@@ -85,5 +85,4 @@ for each_boundary in boundaries:
 
 df = pd.DataFrame(data)
 plt.plot(data)
-# plt.plot(df.rolling(5).mean())
 plt.show()
