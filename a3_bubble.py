@@ -30,12 +30,6 @@ def cal_range(starting_point, total_data_points, phase_number):
     if phase_number == 4.2:
         range_coef = random.uniform(0.1, 1)
 
-    # print(range_coef)
-    # for each elements in phase_data
-    # range_data_each_phase
-    boundaries_each_point = []
-    for element in phase_virtual_mean:
-        boundaries_each_point.append(element + element * range_coef)
     return phase_virtual_mean, phase_last_point, range_coef
 
 
