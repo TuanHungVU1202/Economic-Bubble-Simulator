@@ -1,5 +1,4 @@
-# ELEC-E7810_py
-ELEC-E7810 Patterns in Communications Ecosystem Homework
+# ELEC-E7810 Patterns in Communications Ecosystem Homework
 
 ## Assignment 3 - Economic Bubbles Simulator
 
